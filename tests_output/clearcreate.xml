@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="1"
+            failures="0"
+            tests="1">
+
+  <testsuite name="clearcreate"
+    errors="1" failures="0" hostname="" id="" package="clearcreate" skipped="0"
+    tests="1" time="0.01000" timestamp="Sun, 09 Sep 2018 02:14:55 GMT">
+  
+    <testcase name="create a warrant" classname="clearcreate" time="0.01000" assertions="0">
+    </testcase>
+  
+
+  
+    <system-err>
+        Error while running [Clearcreate / create a warrant]:
+
+  TypeError: Cannot read property &#39;element&#39; of undefined
+    at createWarrant (C:\Users\txmyr\DevMtn\wanted-queries-automation\tests\clearcreate.js:30:20)
+    at Object.create a warrant (C:\Users\txmyr\DevMtn\wanted-queries-automation\tests\clearcreate.js:60:9)
+    at Module.call (C:\Users\txmyr\AppData\Roaming\npm\node_modules\nightwatch\lib\runner\module.js:62:34)
+    at C:\Users\txmyr\AppData\Roaming\npm\node_modules\nightwatch\lib\runner\testcase.js:70:29
+    at _fulfilled (C:\Users\txmyr\AppData\Roaming\npm\node_modules\nightwatch\node_modules\q\q.js:834:54)
+    at self.promiseDispatch.done (C:\Users\txmyr\AppData\Roaming\npm\node_modules\nightwatch\node_modules\q\q.js:863:30)
+    at Promise.promise.promiseDispatch (C:\Users\txmyr\AppData\Roaming\npm\node_modules\nightwatch\node_modules\q\q.js:796:13)
+    at C:\Users\txmyr\AppData\Roaming\npm\node_modules\nightwatch\node_modules\q\q.js:556:49
+    at runSingle (C:\Users\txmyr\AppData\Roaming\npm\node_modules\nightwatch\node_modules\q\q.js:137:13)
+    at flush (C:\Users\txmyr\AppData\Roaming\npm\node_modules\nightwatch\node_modules\q\q.js:125:13)
+    </system-err>
+  
+
+  
+  </testsuite>
+</testsuites>

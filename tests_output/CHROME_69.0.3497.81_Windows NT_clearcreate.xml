@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="0"
+            tests="1">
+
+  <testsuite name="clearcreate"
+    errors="0" failures="0" hostname="" id="" package="clearcreate" skipped="0"
+    tests="1" time="7.805" timestamp="Sun, 09 Sep 2018 02:16:56 GMT">
+  
+    <testcase name="clear a warrant" classname="clearcreate" time="7.805" assertions="17">
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+    </testcase>
+  
+
+  
+
+  
+  </testsuite>
+</testsuites>

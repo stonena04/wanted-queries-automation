@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="0"
+            tests="1">
+
+  <testsuite name="invalidcreate"
+    errors="0" failures="0" hostname="" id="" package="invalidcreate" skipped="0"
+    tests="1" time="7.072" timestamp="Sat, 08 Sep 2018 19:53:21 GMT">
+  
+    <testcase name="create a warrant" classname="invalidcreate" time="7.072" assertions="2">
+
+    
+
+    
+    </testcase>
+  
+
+  
+
+  
+  </testsuite>
+</testsuites>

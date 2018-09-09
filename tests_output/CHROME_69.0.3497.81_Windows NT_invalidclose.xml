@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="0"
+            tests="1">
+
+  <testsuite name="invalidclose"
+    errors="0" failures="0" hostname="" id="" package="invalidclose" skipped="0"
+    tests="1" time="6.188" timestamp="Sat, 08 Sep 2018 19:52:25 GMT">
+  
+    <testcase name="close a warrant" classname="invalidclose" time="6.188" assertions="2">
+
+    
+
+    
+    </testcase>
+  
+
+  
+
+  
+  </testsuite>
+</testsuites>
